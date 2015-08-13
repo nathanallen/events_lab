@@ -14,6 +14,7 @@ You can find a full list of `event` related methods in jQuery here: http://api.j
 * For each exercise, start by opening the `index.html` file for that challenge in your browser. (You can do this from inside Sublime Text by right clicking inside the html file and selecting "Open in Browser").
 * To solve the challenge, you'll need to change each `base.js` file.
 * Make sure to open your Chrome Developer Console so that you can check for bugs!
+* SOLUTIONS: Solutions are in the `solutions` branch.
 
 ###ready
 - Open your console and look at the messages. Pay close attention to the line number on the right (`base.js:6`).
