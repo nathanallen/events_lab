@@ -21,8 +21,8 @@ You can find a full list of `event` related methods in jQuery here: http://api.j
 
 ###2. submit
 - **Challenge**: Can you stop the forms from submitting?
-    + Why does one button reload the same page and the other redirect?
-    + What is the "?" doing in the URL? Try removing it.
+    + That's weird. Why does one button reload the same page and the other redirect to youtube?
+    + Hmm... What is the "?" doing in the URL? How did it get there? Try removing it.
 - Bonus: Instead of redirecting to youtube, let's embed the video in our page instead!
     +  When the user clicks "submit", dynamically insert the embed code into the page (on youtube, click "share" under the video, then click "embed" and copy the html). HINT: The embed code belongs in your javascript, not your html!
 
