@@ -1,5 +1,6 @@
-# DOM Events & jQuery
-In the following exercises you will play with five of the most common DOM `events` in jQuery:
+# Training: DOM Events & jQuery
+
+In the following exercises you will practice with five of the most common DOM `events` in jQuery:
 - ready
 - submit
 - change
@@ -8,34 +9,53 @@ In the following exercises you will play with five of the most common DOM `event
 
 You can find a full list of `event` related methods in jQuery here: http://api.jquery.com/category/events/
 
-## Exercises
+## Instructions:
 
-**Instructions:**  
-* For each exercise, start by opening the `index.html` file for that challenge in your browser. (You can do this from inside Sublime Text by right clicking inside the html file and selecting "Open in Browser").
-* To solve the challenge, you'll need to change each `base.js` file.
-* Make sure to open your Chrome Developer Console so that you can check for bugs!
-* SOLUTIONS: Solutions are in the `solutions` branch.
+Fork this repository to your GitHub account, then clone your GitHub copy onto your computer.
+
+* Each event has its own HTML, CSS, and JavaScript files collected in a directory.  Start by opening the HTML file for that directory in your browser.
+* Read the descriptions below and the existing HTML and JavaScript for each event type. You'll need to change each `base.js` file. Do not change the HTML files.
+* Make sure to keep your developer console open so that you can check for bugs!
+* Make at least one commit for step below.
 
 ###1. ready
-- **Challenge**: Can you get the page to say "Go!" (without touching the html)?
+
+**Get the page to say "Go!" without touching the html.**
 
 ###2. submit
-- **Challenge**: Can you stop the forms from submitting?
-    + That's weird. Why does one button reload the same page and the other redirect to youtube?
-    + Hmm... What is the "?" doing in the URL? How did it get there? Try removing it.
-- Bonus: Instead of redirecting to youtube, let's embed the video in our page instead!
-    +  When the user clicks "submit", dynamically insert the embed code into the page (on youtube, click "share" under the video, then click "embed" and copy the html). HINT: The embed code belongs in your javascript, not your html!
+
+**Stop the forms from submitting.**
+
++ That's weird. Why does one button reload the same page and the other redirect to youtube?  
+
++ Hmm... What is the "?" doing in the URL? How did it get there? Try removing it.  
 
 ###3. change
-- **Challenge**: Some simple addition! Can you get the total to update whenever you update the numbers?
-- Bonus: Add a "reset" button that clears all the inputs.
+
+**Addition! Get the total to update whenever you update the numbers.**
+
+Stretch: Add a "reset" button that clears all the inputs.
 
 ###4. click
-- **Challenge**: Can you create a list of all the phrases that you click?
-- Stretch: In addition to listing the phrase I clicked, can you include a timestamp?
+**Create a list of all the phrases that are clicked.**
+
+Stretch: In addition to listing the phrase I clicked, can you include a timestamp?
 
 ###5. keypress
-- **Challenge**: Stop watch. When the user hits spacebar, record their "start" time. When they  hit it again, record their "end" time. Then, calculate the total time, and put it on the page.
+**Make a stop watch!**
 
-###Wrap it up
-- Recommended: Can you link all the pages together? Create a navbar at the top of every page, with links to all the other pages.
+When the user hits spacebar, record their "start" time.
+
+When they hit it again, record their "end" time.
+
+Then, calculate the total time, and put it on the page.
+
+###6. Wrap it Up
+
+Recommended: Can you link all the pages together? Create a `<nav>` element on every page, with links to all the other pages.
+
+## Deliverable
+
+When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment.
+
+Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
