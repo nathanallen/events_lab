@@ -1,6 +1,6 @@
 # Training: DOM Events & jQuery
 
-In the following exercises you will practice with five of the most common DOM `events` in jQuery:
+In this training, you'll practice with five of the most common DOM `events` in jQuery:
 - ready
 - submit
 - change
@@ -13,10 +13,10 @@ You can find a full list of `event` related methods in jQuery here: http://api.j
 
 Fork this repository to your GitHub account, then clone your GitHub copy onto your computer.
 
-* Each event has its own HTML, CSS, and JavaScript files collected in a directory.  Start by opening the HTML file for that directory in your browser.
-* Read the descriptions below and the existing HTML and JavaScript for each event type. You'll need to change each `base.js` file. Do not change the HTML files.
-* Make sure to keep your developer console open so that you can check for bugs!
-* Make at least one commit for step below.
+* Each event has its own directory with HTML, CSS, and JavaScript files.  Start each event page by opening its HTML file in your browser.  
+* Read the descriptions below (and the existing HTML and JavaScript) for each event page. To meet the goals, you'll need to change each `base.js` file. Do not change the HTML files.  
+* Make sure to keep your developer console open so that you can check for bugs!  
+* Make at least one git commit for each page.  
 
 ###1. ready
 
