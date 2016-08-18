@@ -1,22 +1,22 @@
 # Training: DOM Events & jQuery
 
-In the following exercises you will practice with five of the most common DOM `events` in jQuery:
+In this training, you'll practice with five of the most common DOM `events` in jQuery:
 - ready
 - submit
 - change
 - click
 - keypress
 
-You can find a full list of `event` related methods in jQuery here: http://api.jquery.com/category/events/
+You can find a full list of `event`-related methods in [jQuery's event documentation](http://api.jquery.com/category/events/). For a list of standard JavaScript events, check [MDN's event reference](https://developer.mozilla.org/en-US/docs/Web/Events).
 
 ## Instructions:
 
 Fork this repository to your GitHub account, then clone your GitHub copy onto your computer.
 
-* Each event has its own HTML, CSS, and JavaScript files collected in a directory.  Start by opening the HTML file for that directory in your browser.
-* Read the descriptions below and the existing HTML and JavaScript for each event type. You'll need to change each `base.js` file. Do not change the HTML files.
-* Make sure to keep your developer console open so that you can check for bugs!
-* Make at least one commit for step below.
+* Each event has its own directory with HTML, CSS, and JavaScript files.  Start each event page by opening its HTML file in your browser.  
+* Read the descriptions below (and the existing HTML and JavaScript) for each event page. To meet the goals, you'll need to change each `base.js` file. Do not change the HTML files.  
+* Make sure to keep your developer console open so that you can check for bugs!  
+* Make at least one git commit for each page.  
 
 ###1. ready
 
@@ -71,8 +71,8 @@ Then, calculate the total time, and put it on the page.
 
 Recommended: Can you link all the pages together? Create a `<nav>` element on every page, with links to all the other pages.
 
-## Deliverable
+## Deliverables
 
-When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment.
+1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
 
-Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
+1. Choose one of the event types we've looked at or another you'd like to try, and implement it on your website. 
