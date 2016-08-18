@@ -7,7 +7,7 @@ In this training, you'll practice with five of the most common DOM `events` in j
 - click
 - keypress
 
-You can find a full list of `event` related methods in jQuery here: http://api.jquery.com/category/events/
+You can find a full list of `event`-related methods in [jQuery's event documentation](http://api.jquery.com/category/events/). For a list of standard JavaScript events, check [MDN's event reference](https://developer.mozilla.org/en-US/docs/Web/Events).
 
 ## Instructions:
 
@@ -54,8 +54,8 @@ Then, calculate the total time, and put it on the page.
 
 Recommended: Can you link all the pages together? Create a `<nav>` element on every page, with links to all the other pages.
 
-## Deliverable
+## Deliverables
 
-When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment.
+1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
 
-Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
+1. Choose one of the event types we've looked at or another you'd like to try, and implement it on your website. 
