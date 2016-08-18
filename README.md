@@ -101,7 +101,7 @@ Recommended: Can you link all the pages together? Create a `<nav>` element on ev
 <hr>
 
 
-## Deliverables
+### Deliverables
 
 1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
 
