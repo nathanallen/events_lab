@@ -41,7 +41,12 @@ $(document).ready(function(){
 
 })
 
+// callback function used with setInterval
+// calculates and displays time so far
+// WITHOUT updating total
 function showCurrentTotal(){
-  elapsedTime = (Date.now() - startTime)/1000;
+  // calculate time since we last pressed start
+  var elapsedTime = (Date.now() - startTime)/1000;
+  // display the total time so far
   $("#total-time").text( (total + elapsedTime) + " seconds" );
 }
